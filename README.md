@@ -8,6 +8,7 @@
 - Content Management Systems
 - Business Analysis
 - Digital Marketing
+- Product Managment
 
 
 ### 🌱 I’m currently learning
